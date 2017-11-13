@@ -1,0 +1,20 @@
+Proyecto Final U4
+Propuesta:
+
+Sistema para el Restauran Las Viandas Ciudad Victoria Tamaulipas.
+
+
+El restaurant Las Viandas no cuenta con un control de empleados ni mucho menos inventarios o algún tipo de control 
+en cuanto a sus ventas o proveedores, se sugiere a la dueña del establecimiento genera un sistema en el cual se 
+encontraran los siguientes módulos:
+
+Gestión de empleados: en este apartado se establecerán las horas que el empleado trabaje en el establecimiento, 
+su rendimiento, su paga, y gusto del cliente.
+
+Gestión de ventas: en él se encontrara todo lo asociado a la ganancia del establecimiento, que producto es el más vendido, 
+a qué hora y por qué tipo de clientes.
+
+Gestión de proveedores: Se buscara mantener un control con los proveedores del establecimiento de ambas sucursales.
+
+Gestión de Inventario: En el presente modulo se establecerá un control en cuanto a los productos que entran, 
+cuanta es la cantidad que queda y que se necesita con más urgencia proveer.
